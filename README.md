@@ -2,7 +2,7 @@
 Studiju kursa Datormācība (pamatkurss) elektroniskā klade
 
 
-firefox     (faila nosaukums)
+firefox     (atver failu ar ierakstīto faila nosaukumu)
 
 ls -la      (parāda visus failus ieskaitot paslēptos)
 
