@@ -18,9 +18,9 @@ cd ~        (aizved uz māju directory)
 
 cd /        (aizved uz root directory)
 
-cd home/user/       (aizved uz home directory)
+cd home/user/       (aizved uz /user/ directory)
 
-echo $0     (parāda interpretatoru)
+echo $0     (parāda interpretatoru (BASH SHELL utt.)
 
 $ pwd       (patreizējā atrašanās vieta)
 
@@ -42,4 +42,4 @@ rmdir ManaMape/     (izdzēš directory ar nosaukumu ManaMape)
 
 history             (parāda termināļa vēsturi)
 
-history > history_20190912.txt      (uztaisa txt failu kurā ir termināļa vēsture)
+history > history_20190912.txt      (uztaisa .txt failu kurā ir termināļa vēsture)
